@@ -8,7 +8,7 @@
 - [Probabilidade](https://nbviewer.org/github/I2A2-Master-User/i2a2-para/blob/main/m1_b_probabilidade.ipynb)
 - [Estatística](https://nbviewer.org/github/I2A2-Master-User/i2a2-para/blob/main/m1_c_estatistica.ipynb)
 - [Álgebra Linear](https://nbviewer.org/github/I2A2-Master-User/i2a2-para/blob/main/m1_d_algebralinear.ipynb)
-- [Desafio 1](https://nbviewer.org/github/I2A2-Master-User/i2a2-para/blob/main/m1_f_desafio.ipynb)
+- [Desafio 1](https://nbviewer.org/github/I2A2-Master-User/i2a2-para/blob/main/m1_e_desafio.ipynb)
 
 ## Modulo 2 - Preparando seus dados
 - Ferramentas 1
